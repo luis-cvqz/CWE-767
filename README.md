@@ -1,0 +1,1 @@
+# CWE-767: Access to Critical Private Variable via Public Method
